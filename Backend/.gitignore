@@ -1,0 +1,4 @@
+# VE
+node_modules/
+.env
+geolocation.js
